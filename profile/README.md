@@ -11,14 +11,6 @@ A 4 months online Bootcamp designed for your transition from Web2 to Web3. Our p
 
 ## Meet our Web3 instructor
 
-### **🧑‍💻 Jeffrey Scholz**
-
-Ex-Yahoo who built out the video machine learning department from scratch, leading to tens of millions of dollars in incremental revenue.
-
-Jeffrey have two patents in AI and have placed in the top 10 of highly competitive international machine learning contests. Now Jeffrey is a senior Smart contract developer who’s advising handful of web3 startups.
-
-Socials :  [LinkedIn](https://www.linkedin.com/in/jeffreyscholz/) | [Twitter](https://twitter.com/Jeyffre) | [Website](https://web3jeff.com/)
-
 ## 🧑‍🏫 The course 
 
 **Topics covered**:
