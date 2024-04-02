@@ -1,6 +1,6 @@
 # Hey, this is us 👋
 
-Metana trains existing engineers to be blockchain developers in a 4-month project-based boot-camp program.
+[Metana](https://metana.io) trains existing engineers to be blockchain developers in a 4-month project-based boot-camp program.
 
 ![an illustration of students learning blockchanin development at metana.io](https://metana.io/wp-content/uploads/2021/11/Pair-programming-pana.svg)
 
